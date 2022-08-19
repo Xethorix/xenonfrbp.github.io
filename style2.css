@@ -1,0 +1,20 @@
+body {
+	color: darkwhite;
+}
+
+nav.t ul li.e{
+	list-style-type: none;
+}
+
+nav.t ul li.e:hover a{
+	color: blue;
+	background-color: black;
+}
+
+nav.t ul li.e a {
+	color: white;
+	background-color: Blue;
+	text-decoration: none;
+	padding: 10px;
+	box-shadow: 100px;
+}

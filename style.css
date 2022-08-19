@@ -1,0 +1,33 @@
+body {
+	background-color: ghostwhite;
+}
+
+nav.menu-nav ul li.btn a {
+	color: white;
+	background-color: blue;
+	text-decoration: none;
+	padding: 10px;
+}
+
+nav.menu-nav ul li.btn{
+	list-style-type: none;
+	display: inline-block;
+}
+
+nav.menu-nav ul li.btn:hover a{
+	color: blue;
+	background-color: black;
+}
+
+.Broke {
+	background-color: white;
+	padding: 10px;
+	background-size: 100px;
+	text-align: center;
+}
+
+h1{
+	color: red;
+	font-family: monospace;
+	font-size: 40px;
+}
